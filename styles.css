@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(0, 153, 255);
+    text-align: center;
+}
+
+.interaçao {
+    border-radius: 10px;
+}
+
+.per {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cal {
+    font-size: 50px;
+    text-shadow: 50px;
+}
+
